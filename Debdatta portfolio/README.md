@@ -1,2 +1,2 @@
-# Debdattasingha.github.io
+# DebdattaSingha.github.io
 portfolio project
